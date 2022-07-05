@@ -1,4 +1,4 @@
-module github.com/svg-at-wss/pubmod
+module github.com/wss-qa/pubmod
 
 go 1.18
 
